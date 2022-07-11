@@ -1,0 +1,33 @@
+.card-tm {
+  width: 100%;
+}
+
+h1 {
+  color: rgb(16, 133, 217);
+}
+
+#button {
+  background: linear-gradient(to left, rgba(16, 133, 217), rgb(0, 74, 127));
+
+transition: all 0.3s ease;
+}
+
+.color {
+  color:rgb(0, 0, 0)
+}
+
+.colorWhite{
+  color: rgb(255, 255, 255);
+}
+
+#colorRed {
+  color: rgb(233, 0, 0);
+}
+
+.fontmini{
+  font-size: 10pt;
+}
+
+#fontmax{
+  font-size: 40px;
+}
