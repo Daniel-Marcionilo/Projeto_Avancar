@@ -1,2 +1,2 @@
 # Projeto_Avancar
-Projeto Integrador desenvolvido para conclusão do bootcamp Pessoa Desenvolvedora Java da Generation Brasil
+Resumo: Plataforma ecommerce que tem por objetivo arrecar fundos às ONGs que atuam diretamente com a erradicação da pobreza.
